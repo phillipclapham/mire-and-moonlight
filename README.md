@@ -1,4 +1,4 @@
-# mire and moonlight
+# Mire and Moonlight
 
 *some flowers only blossom in mire and moonlight*
 
