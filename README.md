@@ -4,7 +4,7 @@
 
 ---
 
-A collection of 47 poems written from radical presence—not about enlightenment, but from what remains after the self dissolves.
+A curated collection of 34 poems written from radical presence—not about enlightenment, but from what remains after the self dissolves.
 
 ## About the Author
 
@@ -42,7 +42,7 @@ The philosophy behind this work: *"All is true is false is meaningful is meaning
 
 ## Reading
 
-The poems are numbered 0 through xlvi (Roman numerals) and can be read in sequence or browsed individually. Start anywhere. Some will resonate, some won't. That's how it works.
+The poems are numbered with Roman numerals (0 through xlvi, with gaps from curation) and can be read in sequence or browsed individually. Start anywhere. Some will resonate, some won't. That's how it works.
 
 A few entry points:
 - [0 (unnamed unborn)](poems/00-unnamed-unborn.md) — the opening, wu wei distilled
