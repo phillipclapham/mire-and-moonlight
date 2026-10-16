@@ -10,7 +10,7 @@ A curated collection of 34 poems written from radical presence—not about enlig
 
 **Phill Clapham** — poet, engineer, mad scientist.
 
-By day, a Senior Solutions Architect building enterprise systems. By night, building the missing layer between humans and AI through [Protocol Memory](https://protocolmemory.com) and [FlowScript](https://github.com/phillipclapham).
+By day, I build the systems businesses run on at [Clapham Digital](https://claphamdigital.com). By night, the missing layer between humans and AI: memory that compresses into identity, and the harness that keeps it honest, all of it [on GitHub](https://github.com/phillipclapham).
 
 The poetry and the infrastructure come from the same place: a brain that runs on fascination, not discipline. Wu wei (無為)—effortless action, natural flow—isn't philosophy here. It's operating system.
 
@@ -65,9 +65,8 @@ Under the following terms:
 
 - [phillipclapham.com](https://phillipclapham.com) — home base
 - [raygunos.com](https://raygunos.com) — the operating system
-- [adapthuman.com](https://adapthuman.com) — the company
-- [protocolmemory.com](https://protocolmemory.com) — AI memory infrastructure
-- [protocolmemory.com/u/phill](https://protocolmemory.com/u/phill) — my public AI profile
+- [claphamdigital.com](https://claphamdigital.com) — the company
+- [nemooperans.com](https://nemooperans.com) — essays
 - [GitHub](https://github.com/phillipclapham) — where the code lives
 
 ---
