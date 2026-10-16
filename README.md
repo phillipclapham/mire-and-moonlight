@@ -14,7 +14,7 @@ By day, I build the systems businesses run on at [Clapham Digital](https://claph
 
 The poetry and the infrastructure come from the same place: a brain that runs on fascination, not discipline. Wu wei (無為)—effortless action, natural flow—isn't philosophy here. It's operating system.
 
-A health crisis in 2020 (mast cell disease, still being classified) made everything urgent. The methodology that emerged—[RAYGUN OS](https://raygunos.com)—keeps me functional while managing serious constraints. These poems are part of that substrate: explorations of presence written during the same years I was building cognitive infrastructure for human-AI partnership.
+A health crisis in 2020 (mast cell activation syndrome) made everything urgent. The methodology that emerged—[RAYGUN OS](https://raygunos.com)—keeps me functional while managing serious constraints. These poems are part of that substrate: explorations of presence written during the same years I was building cognitive infrastructure for human-AI partnership.
 
 ## Why Open Release
 
